@@ -90,7 +90,7 @@ public class MyATM {
 
         //login Id and Passward 
 
-        MyATM atm = new MyATM("bb", "bbb");
+        MyATM atm = new MyATM("MyUserId", "MyPassword");
         Scanner scanner = new Scanner(System.in);        
         System.out.println("Welcome to the ATM!");
 
